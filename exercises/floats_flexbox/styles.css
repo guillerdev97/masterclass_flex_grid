@@ -1,0 +1,49 @@
+/* normalize css */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* float container */
+.float-container {
+  width: 60%;
+  height: 200px;
+  margin: 50px auto;
+  background-color: rgb(196, 196, 196);
+  border: 2px solid black;
+}
+.float-section {
+  width: 40%;
+  height: 100px;
+  margin: 30px auto;
+  border: 1px solid black;
+}
+.float-box {
+  float: left;
+  width: 15%;
+  height: 40px;
+  margin-top: 40px;
+  background-color: red;
+  border: 1px solid black;
+}
+
+/* flex container */
+.flex-container {
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 60%;
+  height: 200px;
+  margin: auto;
+  background-color: rgb(196, 196, 196);
+  border: 2px solid black;
+}
+
+.flex-box {
+  width: 10%;
+  height: 40px;
+  background-color: red;
+  border: 1px solid black;
+}
