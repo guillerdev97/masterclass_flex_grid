@@ -13,7 +13,7 @@ Exercises...
 ## Technologies
 
 |                                                                                                                                       Front End                                                                                                                                        |                                                                                             Diseño y organización                                                                                              |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 
 | <img src="https://github.com/Yelose/Yelose/blob/main/img/vscode.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/html.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/css.png"> | <img src="https://github.com/Yelose/Yelose/blob/main/img/figma.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/google.png"> |
 
 ## Setup
@@ -40,29 +40,16 @@ Start live server
 
 ## Learnings
 
-- Create a web application from scratch with separated backend and frontend repository.
-- Creation of views by components and modals for animations.
-- Keyboard with draggable keys.
-- Creation of a role system for users.
-
 ## Next steps
-
-- [x] Caps button for the game keyboard
-- [ ] Sound on the keyboard when pressing a letter
-- [ ] Sound on the keyboard when receiving a notification
-- [ ] Upload to production (Railway and/or other hosting)
-- [ ] Implement modals for all notifications
-- [ ] New game
 
 ## Documentation
 - [Presentation](https://www.figma.com/file/HCGDAXOHXuOM567hPHBryR/Proyecto-Pedag%C3%B3gico?node-id=111%3A3)
-
 
 ## Author
 | Nombre                 |     Roll      | <img src="https://github.com/Yelose/Yelose/blob/main/img/github.png" width="30px" height="30px"> |
 | :--------------------- | :-----------: | :----------------------------------------------------------------------------------------------: |
 | Guillermo García       | Web Developer |                                 https://github.com/guillerdev97                                  |
-|
+
 ## Acknowledgements
 
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
