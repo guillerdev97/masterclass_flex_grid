@@ -1,21 +1,15 @@
-## Project's name: 
+## Flexbox And Grid Masterclass
 
 ## Table of contents
-
 - [General info](#general-info)
 - [Technologies](#technologies)
-- [Setup frontend](#setup)
+- [Setup project](#setup)
 - [Versions](#versions)
-- [Requirements](#requirements)
-- [Game description](#game-description)
-- [General characteristics](#general-characteristics)
-- [Work methodology](#work-methodology)
 - [Learnings](#learnings)
 - [Next steps](#next-steps)
 
-
 # General info
-
+Exercises...
 
 # Technologies
 
