@@ -1,21 +1,20 @@
-## Flexbox And Grid Masterclass
+# Flexbox And Grid Masterclass
 
-## Table of contents
+# Table of contents
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup project](#setup)
-- [Versions](#versions)
 - [Learnings](#learnings)
 - [Next steps](#next-steps)
 
-# General info
+## General info
 Exercises...
 
-# Technologies
+## Technologies
 
-|                                                                                                                                       Front End                                                                                                                                       |                                                                Back End                                                                 |                                                                                             Diseño y organización                                                                                              |
+|                                                                                                                                       Front End                                                                                                                                        |                                                                                             Diseño y organización                                                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/Yelose/Yelose/blob/main/img/vscode.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/html.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/bootstrap.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/css.png"> | <img src="https://github.com/Yelose/Yelose/blob/main/img/php.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/mysql.png"> | <img src="https://github.com/Yelose/Yelose/blob/main/img/figma.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/jira.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/google.png"> |
+| <img src="https://github.com/Yelose/Yelose/blob/main/img/vscode.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/html.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/css.png"> | <img src="https://github.com/Yelose/Yelose/blob/main/img/figma.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/google.png"> |
 
 ## Setup
 
@@ -24,42 +23,29 @@ To run this project, install it locally using npm.
 Clone the project
 
 ```bash
-  git clone https://github.com/Equipo-Proton/la-tribu-exploradora-frontend.git
-  git clone https://github.com/Equipo-Proton/la-tribu-exploradora-backend.git
+  git clone https://github.com/guillerdev97/masterclass_flex_grid.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd la-tribu-exploradora-frontend
+  cd masterclass_flex_grid
 ```
 
-Install dependencies
+Start live server
 
 ```bash
-  npm install
+   open live server
 ```
 
-Start the server
-
-```bash
-   npm run dev
-```
-
-# Versions
-
-<p align="center"> <img src="src/assets/img/Versions.png"/> </p>
-Our workflow in git was as follows, we all started from the Main branch with the same base. Implementations, changes and features were made in the Develop branch, they were tested in the Release branch and from Release versions with checkpoints were released and updated the Develop branch to continue development with all the features tested and thus not generate a cycle of bugs.
-
-
-# Learnings
+## Learnings
 
 - Create a web application from scratch with separated backend and frontend repository.
 - Creation of views by components and modals for animations.
 - Keyboard with draggable keys.
 - Creation of a role system for users.
 
-# Next steps
+## Next steps
 
 - [x] Caps button for the game keyboard
 - [ ] Sound on the keyboard when pressing a letter
@@ -68,11 +54,11 @@ Our workflow in git was as follows, we all started from the Main branch with the
 - [ ] Implement modals for all notifications
 - [ ] New game
 
-# Documentation
-- [Prototype](https://www.figma.com/file/HCGDAXOHXuOM567hPHBryR/Proyecto-Pedag%C3%B3gico?node-id=111%3A3)
+## Documentation
+- [Presentation](https://www.figma.com/file/HCGDAXOHXuOM567hPHBryR/Proyecto-Pedag%C3%B3gico?node-id=111%3A3)
 
 
-# Author
+## Author
 | Nombre                 |     Roll      | <img src="https://github.com/Yelose/Yelose/blob/main/img/github.png" width="30px" height="30px"> |
 | :--------------------- | :-----------: | :----------------------------------------------------------------------------------------------: |
 | Guillermo García       | Web Developer |                                 https://github.com/guillerdev97                                  |
