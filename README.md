@@ -41,6 +41,7 @@ Start live server
 
 ## Documentation
 - [Presentation](https://www.figma.com/file/HCGDAXOHXuOM567hPHBryR/Proyecto-Pedag%C3%B3gico?node-id=111%3A3)
+- [FIgma](https://www.figma.com/file/fhgSjg99RzCUA1pV8o85up/Untitled?node-id=13%3A58&t=hO6oLjtuIQEmTsCP-1)
 
 ## Author
 | Nombre                 |     Roll      | <img src="https://github.com/Yelose/Yelose/blob/main/img/github.png" width="30px" height="30px"> |
