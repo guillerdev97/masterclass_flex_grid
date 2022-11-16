@@ -40,7 +40,7 @@ Start live server
 ## Next steps
 
 ## Documentation
-- [Presentation](https://www.figma.com/file/HCGDAXOHXuOM567hPHBryR/Proyecto-Pedag%C3%B3gico?node-id=111%3A3)
+- [Presentation](https://view.genial.ly/635a45e6fe69430018dc0f8e/presentation-flexboxgrid)
 - [FIgma](https://www.figma.com/file/fhgSjg99RzCUA1pV8o85up/Untitled?node-id=13%3A58&t=hO6oLjtuIQEmTsCP-1)
 
 ## Author
