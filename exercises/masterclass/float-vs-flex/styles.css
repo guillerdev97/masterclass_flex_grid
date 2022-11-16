@@ -5,4 +5,32 @@
   padding: 0;
 }
 
+/* float-section */
+#float-section {
+  width: 50%;
+  height: 200px;
+  margin: 50px auto;
+  background-color: lightgray;
+  border: 1px solid black;
+}
+#float-div div {
+  width: 10%;
+  height: 50px;
+  background-color: red;
+  border: 1px solid black;
+}
 
+/* flex-section */
+#flex-section {
+  width: 50%;
+  height: 200px;
+  margin: 50px auto;
+  background-color: lightgray;
+  border: 1px solid black;
+}
+#flex-section div {
+  width: 10%;
+  height: 50px;
+  background-color: red;
+  border: 1px solid black;
+}
