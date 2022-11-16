@@ -1,0 +1,37 @@
+/* normalize css */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* body css */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* flex-container */
+#flex-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 50px;
+  width: 50%;
+  height: 350px;
+  padding: 10px;
+  background-color: burlywood;
+  border: 1px solid black;
+}
+
+/* flex-item */
+.flex-item {
+  width: 15%;
+  height: 100px;
+  background-color: lightgray;
+  border: 1px solid black;
+}
