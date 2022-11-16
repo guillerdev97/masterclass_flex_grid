@@ -1,4 +1,10 @@
 # Flexbox And Grid Masterclass
+This repository has been created to give a masterclass on the css3 modules of flexbox and grid layout. 
+We will learn about:
+- What is Flexbox and Grid?
+- Use benefits
+- Basic terms
+- Basic properties
 
 # Table of contents
 - [General info](#general-info)
@@ -8,7 +14,8 @@
 - [Next steps](#next-steps)
 
 ## General info
-Exercises...
+This repository has been created to give a masterclass on the css3 modules of flexbox and grid layout. 
+Each exercise is in a folder. The folders have the same name as in the PDF that this README contains. The PDF contains all the exercises.
 
 ## Technologies
 <img src="https://github.com/Yelose/Yelose/blob/main/img/vscode.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/html.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/css.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/figma.png"> <img src="https://github.com/Yelose/Yelose/blob/main/img/google.png"> 
