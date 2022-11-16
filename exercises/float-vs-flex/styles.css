@@ -1,0 +1,49 @@
+/* normalize css */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* float-section */
+#float-section {
+  width: 50%;
+  height: 200px;
+  margin: 50px auto;
+  background-color: lightgray;
+  border: 1px solid black;
+}
+#float-div {
+  width: 50%;
+  height: 200px;
+  margin: auto;
+  border: 1px solid black;
+}
+#float-div div {
+  float: left;
+  width: 20%;
+  height: 100px;
+  background-color: red;
+  border: 1px solid black;
+}
+#margin-left {
+  margin-left: 20%;
+}
+
+/* flex-section */
+#flex-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 200px;
+  margin: 50px auto;
+  background-color: lightgray;
+  border: 1px solid black;
+}
+#flex-section div {
+  width: 15%;
+  height: 100px;
+  background-color: red;
+  border: 1px solid black;
+}
