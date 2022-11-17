@@ -4,3 +4,43 @@
   margin: 0;
   padding: 0;
 }
+
+/* body */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+/* flex-container */
+#flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 50%;
+  height: 40vh;
+  background-color: lightgray;
+  border: 1px solid black;
+}
+
+/* flex-item */
+.flex-item {
+  width: 15%;
+  height: 15vh;
+  border: 1px solid black;
+}
+
+/* colors */
+#red {
+  flex-basis: 30%;
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#yellow {
+  background-color: yellow;
+}
+#blue {
+  background-color: blue;
+}

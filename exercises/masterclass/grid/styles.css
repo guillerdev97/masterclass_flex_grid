@@ -4,3 +4,38 @@
   margin: 0;
   padding: 0;
 }
+
+/* body */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* grid-container */
+#grid-container {
+  display: grid;
+  grid-template-columns: 2fr 2fr 1fr 1fr;
+  grid-template-rows: repeat(3, 1fr);
+  align-content: center;
+  width: 40%;
+  height: 50vh;
+  border: 1px solid black;
+}
+
+.grid-item {
+  background-color: red;
+  border: 1px solid black;
+}
+
+#item-1 {
+ 
+  grid-column: span 3;
+  background-color: green;
+}
+
+#item-3 {
+  grid-row: span 2;
+  background-color: green;
+}
